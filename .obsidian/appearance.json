@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 17,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "SN Pro",
+  "enabledCssSnippets": [
+    "CSS.Banners",
+    "icon",
+    "oz-calendar",
+    "userstyles"
+  ],
+  "showViewHeader": false,
+  "nativeMenus": false
+}

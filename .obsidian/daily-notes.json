@@ -1,0 +1,5 @@
+{
+  "template": "templates/notes",
+  "autorun": false,
+  "format": "DD-MM-YYYY"
+}

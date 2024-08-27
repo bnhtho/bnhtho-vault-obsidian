@@ -1,0 +1,39 @@
+{
+  "useSnippets": false,
+  "showAll": false,
+  "snippets": [
+    {
+      "path": "templates",
+      "type": "string",
+      "selector": "*",
+      "hiddenInNav": true,
+      "hiddenInBookmarks": false
+    },
+    {
+      "path": "readme.md",
+      "type": "file",
+      "hiddenInNav": true,
+      "hiddenInBookmarks": false
+    },
+    {
+      "path": "img",
+      "type": "folder",
+      "hiddenInNav": true,
+      "hiddenInBookmarks": false
+    },
+    {
+      "path": "Study/note_img",
+      "type": "folder",
+      "hiddenInNav": true,
+      "hiddenInBookmarks": false
+    },
+    {
+      "path": "Study/Math Modeling/Dàn ý bài tập lớn.md",
+      "type": "file",
+      "hiddenInNav": true,
+      "hiddenInBookmarks": false
+    }
+  ],
+  "alwaysHideInBookmarks": false,
+  "buttonInContextBookmark": false
+}

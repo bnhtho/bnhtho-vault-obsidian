@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "cdbde62fd7351114",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9f232a4da2e4e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec957afb5ddf3249",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0bd3f6986fa8ca9c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5998d6d5e912b7fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a19c03ec63997fe2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "488fd1fae4529c8f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3db16899fd59d20c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Math Modeling/Assigment Report Math Modelings Outline.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99ca36a28077f25a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd7e85560e948934",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "631c2f6c063b63d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Math Modeling/Dàn ý bài tập lớn.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2201e58ffc03c1f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b19a45861f41a9a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "962de44857d27daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developer/Config Ubuntu Check list.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65c374b624003d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neovim/Tips of Config Neovim.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a08480101b5f6158",
+    "type": "split",
+    "children": [
+      {
+        "id": "119bdff831efd426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee198694ed12b08f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78b24ef069f14601",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b73b6c9041610f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4bd26454a43fa365",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3dcb200141cf369",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d4b5ef626e4a8d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d469796832e6be39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Neovim/Tips of Config Neovim.md"
+              }
+            }
+          },
+          {
+            "id": "bea6e4c6f22babef",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "explorer-hider:Disable hiding": false
+    }
+  },
+  "active": "65c374b624003d57",
+  "lastOpenFiles": [
+    "Developer/Config Ubuntu Check list.md",
+    "Neovim/Tips of Config Neovim.md",
+    "Note/24-07-2024.md",
+    "Note/01-08-2024.md",
+    "Study/note_img/note.png",
+    "Study/note_img/Pasted image 20240827233137.png",
+    "Study/Math Modeling/Outline Assigment.md",
+    "Study/Math Modeling/Assigment Report Math Modelings Outline.md",
+    "Study/note_img/Pasted image 20240827233022.png",
+    "Untitled.md",
+    "Developer/Untitled",
+    "Note/Today.md",
+    "Note/30-07-2024.md",
+    "Developer/test.md",
+    "Neovim/UI.md",
+    "Neovim/Dashboard.md",
+    "Developer/Config.md",
+    "Note/Check List.md",
+    "Note/25-07-2024.md",
+    "Note/26-07-2024.md",
+    "Note/29-07-2024.md",
+    "Note/Untitled.md",
+    "25-07-2024.md",
+    "img/Neovim-Banner.jpg",
+    "UI.md",
+    "Neovim/ui.md",
+    "Neovim",
+    "neovim/ui.md",
+    "neovim",
+    "test/abc.md",
+    "templates/neovim-template.md",
+    "test",
+    "Developer/Neovim/abc.md",
+    "img/Neovim-Banner.png",
+    "img/a_group_of_old_computer_equipment.png",
+    "Neovim",
+    "Study/abc",
+    "Study/abc",
+    "Note",
+    "Study/University Note",
+    "img/Ubuntu-Banner.jpg",
+    "Study/img/One-dimensional-cutting-stock-problem-with-one-stock-type.png",
+    "Study/note_img/Pasted image 20240718214921.png",
+    "Study/note_img/Pasted image 20240718214912.png",
+    "Study/note_img"
+  ]
+}

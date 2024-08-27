@@ -1,0 +1,22 @@
+{
+  "newFileLocation": "root",
+  "promptDelete": false,
+  "newFileFolderPath": "Học/img",
+  "attachmentFolderPath": "Study/note_img",
+  "showRibbon": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "cssclasses",
+    "templates/"
+  ],
+  "vimMode": false
+}
